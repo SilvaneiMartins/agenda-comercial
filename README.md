@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="left">
-  Neste estudo está sendo desenvolvido um projeto de agenda comercial, com python usando a fromework na parte visual Qt framerwork (qml)
+  Neste estudo está sendo desenvolvido um projeto de agenda comercial, com python usando a framework na parte visual Qt framerwork (qml)
 </h4>
 
 <p align="center">
