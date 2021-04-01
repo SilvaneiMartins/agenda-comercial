@@ -19,16 +19,15 @@
 
 ## :rocket: Tecnologias usadas no desenvolvimento;
 
-### Tecnologias do Backend :computer:
-No frontend optamos por usar as tecnologais descritas abaixo, pela expressivida e facilidade do uso e da configuração do mesmo, apos excluirmos arquivos desnecessarios, iniciamos as primeiras configuração, apos configuração pronto, instamos o typescript + react js como ferramenta do visual, para estizarmos utilizamos styled-components e para conectar o frontend com o backend utilizamos a biblioteca axios.
+### Tecnologias no Projeto :computer:
 
 -  [Python](https://www.python.org/)
 -  [QT 5.15](https://doc.qt.io/qt-5/qmltypes.html)
 
 ## :information_source: Como usar
 
-### Backend:earth_americas:
-Para criar e executar esta aplicação backend, você precisa executar o seguinte comandos logo abaixo:
+### Clona o repositório:earth_americas:
+Para clonar o prrojeto, você precisa executar o seguinte comandos logo abaixo:
 
 ```bash
 # Clonar o repositório
@@ -37,7 +36,6 @@ $ git clone https://github.com/SilvaneiMartins/agenda-comercial
 # Acessar a pasta criada pelo repositório
 $ cd agenda-comercial
 ```
-
 
 ## :memo: License
 Este desafio está sob a licença MIT. Veja o [LICENSE](https://github.com/SilvaneiMartins/agenda-comercial/blob/master/LICENSE) for more information.
